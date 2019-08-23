@@ -1,0 +1,28 @@
+/* * {
+background-color: bisque;
+} */
+
+h1 {
+    color: darkmagenta;
+}
+
+p {
+    color: hotpink;
+}
+
+#chosen {
+    font-style: italic;
+}
+
+.underline {
+    text-decoration: underline;
+}
+div p {
+    border: 1px solid black;
+}
+p:hover {
+    transform: rotate(180deg);
+}
+p::first-letter {
+    font-size: 2rem;
+}
